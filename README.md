@@ -1,6 +1,6 @@
 # Polygon Hackathon
 
-[Fluence](https://fluence.network/) is proud to sponsor the [Polygon Global Hackathon](https://buidlit.polygon.technology/), June 15 - August 25, 2022, and we welcome you to join us in an exciting Web3 summer diversion!
+[Fluence](https://fluence.network/) is proud to sponsor the [Polygon Global Hackathon](https://buidlit.polygon.technology/), June 15 - September 5, 2022, and we welcome you to join us in an exciting Web3 summer diversion!
 
 ## About Fluence
 
